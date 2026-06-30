@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5g0083/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5g0083/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 玄和子十二月卦金訣
+  date: '2015-08-29 02:53:53.622967'
+  source:
+    repository: kanripo
+    path: KR5g0083
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5g0083_000-ZTDZ.yaml, hash: 'sha256:5d427e800efb9cd35c4b82927299f5d4008ff1713084a35bf01a223851b48f45'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5g0083_000-ZTDZ.markers.yaml, hash: 'sha256:aad0a20736dc1f670876f2339084aedeb2e24bdbd397239c922bcc34a38082f6'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5g0083_SJB_000-320594c
+    span:
+    - body
+    - 0
+    - 2231
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:e66cbde86640f9168280ff3a20667450f877de2a2b6a88db04c33576162aa004
